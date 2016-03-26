@@ -78,7 +78,7 @@ public class WebViewDesc {
     private String mFilePath;
     private String mNamespace;
     private boolean mCache;
-    private HashMap<String, String> mParams;
+    private HashMap<String, String> mParams; // Autofill
     private String mPageTitle;
     private TemplateLastUpdate mTemplateUpdate;
 
