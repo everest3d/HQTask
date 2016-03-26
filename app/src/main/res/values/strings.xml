@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HQTask</string>
+    <string name="title_webview_detail">WebView Detail</string>
+</resources>
